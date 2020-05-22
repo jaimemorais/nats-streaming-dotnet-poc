@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/nats-streaming-tests-net/v16
+/Consumer/bin/Debug/netcoreapp3.1
+/Consumer/obj
+/Producer/bin/Debug/netcoreapp3.1
+/Producer/obj
