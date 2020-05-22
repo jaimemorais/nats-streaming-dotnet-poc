@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Consumidor
 {
-    public static class ProgramConsumidor
+    public static class ConsumerProgram
     {
 
         static void Main(string[] args)
