@@ -29,9 +29,10 @@ namespace Produtor
             using (var c = cf.CreateConnection(CLUSTER_ID, CLIENT_ID, stanOptions))
             {
 
+                Random r = new Random();
+
                 while (true)
                 {
-                    Random r = new Random();
                     var msgId = r.Next();
 
                     string msg = CLIENT_ID + "-" + msgId.ToString();
