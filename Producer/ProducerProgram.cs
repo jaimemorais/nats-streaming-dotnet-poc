@@ -3,7 +3,7 @@ using System;
 using System.Text;
 using System.Threading;
 
-namespace Produtor
+namespace Producer
 {
     public static class ProducerProgram
     {
