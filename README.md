@@ -1,2 +1,2 @@
-# nats-streaming-net-tests
-testing nats streaming queue-groups
+# nats-streaming-dotnet-poc
+NATS Streaming queue-groups POC with dotnet
